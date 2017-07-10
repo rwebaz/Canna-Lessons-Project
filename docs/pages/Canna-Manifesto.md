@@ -1,5 +1,5 @@
 ---
-title: Manifesto
+title: Canna Manifesto
 layout: default
 navigation_weight: 2
 ---
@@ -54,5 +54,7 @@ It didn't work and most observers say the tactics used were purely racist at hea
 Another 100 million Americans report ongoing chronic pain to their physicians.
 
 How much of that is real, and how much is memorex?
+
+***
 
 **Source**: [The Cannabis Manifesto: A New Paradigm For Wellness by Steve D'Angelo](https://medmj.us/Cannafesto){:target="_blank"}

@@ -1,5 +1,5 @@
 ---
-title: Prohibition
+title: Sticky Prohibition
 layout: default
 navigation_weight: 3
 ---
@@ -31,4 +31,6 @@ Focus on the targeted end user, the medical patient, and the empathy for that in
 
 Short of an electrical zap to the head, that is our only pathway to turning an illogical voter logical.
 
-**Source**: [The Human Brain: The Collection by New Scientist](https://medmj.us/Cannafesto){:target="_blank"}
+***
+
+**Source**: [The Human Brain: The Collection by New Scientist](https://amzn.to/2tXHkYY){:target="_blank"}
