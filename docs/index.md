@@ -40,4 +40,4 @@ Place the introducing line of text ie.) the 'tagline' here ...
 
 ***
 
-**Source**: [Project Source Links](https://rwebaz.github.io/Zazzle-Hempaz-Project/pages/Source-Links.html){:target="_self"). Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:target="_blank"}
+**Source**: [Project Source Links](https://rwebaz.github.io/Canna-Lessons-Project/pages/Source-Links.html){:target="_self"). Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:target="_blank"}
