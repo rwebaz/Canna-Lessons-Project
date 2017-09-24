@@ -7,10 +7,7 @@ navigation_weight: 9
 
 Combining synthesized terpenoids and cannabinoids together re-creates Nature's Entourage Effect.
 
-## Table O Contents
-
-- TOC
-{:toc}
+{% include toc-flammarion.md %}
 
 ## Terpenes
 
@@ -72,18 +69,10 @@ Commonly referred to as "Couch-lock" dweeb, Cannabis with concentrations of 50% 
 
 **Note**. **Myrcene** is also found in high concentrations in the Mango plant, as well. So, eat a mango before bed at night ( along with your favorite vaporization ) to enhance the **Entourage Effect**.
 
-## Raw Code
+{% include sources-and-uses.md %}
 
-More to come ...
+### External Sources
 
-```liquid
-{% raw %}
-`...`
-{% endraw %}
-```
+- The [Project Source Links](https://mminail.github.io/Canna/Source-Canna-Links.htm){:title="Click to Visit the Source Links page of the Canna Lessons Project at GitHub pages"}{:target="_blank"} page of the Canna Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
 
-***
-
-**Original Author**. The Georgia Straight by Amanda Siebert. Published by © 2017 [www.420magazine.com](https://www.420magazine.com/){:target="_blank"}.
-
-**Source**: [Project Source Links](https://rwebaz.github.io/Zazzle-Hempaz-Project/pages/Source-Links.html){:target="_self"). Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:target="_blank"}.
+- [The Georgia Straight by Amanda Siebert](https://www.420magazine.com/){:title="Click to Visit the The Georgia Straight by Amanda Siebert"}{:target="_blank"}. Published by © 2017 [420magazine.com](https://www.420magazine.com/){:title="Click to Visit 420 Magazine"}{:target="_blank"}.

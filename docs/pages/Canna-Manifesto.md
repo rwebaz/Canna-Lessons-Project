@@ -1,17 +1,25 @@
 ---
 title: Canna Manifesto
 layout: default
-navigation_weight: 2
+navigation_weight: 9
 ---
-# Epidemic
+# Canna Manifesto
 
-Today in America, 50 million Americans ( with the tacit support of their representatives in Congress ) use both prescription and black-market opioids, sedatives, and stimulants for "non-medical" or recreational usage rather than imbibe organic based Cannabis products for simple awareness and homeostatic wellness.
+Patients should imbibe organic based Cannabis products for simple awareness and homeostatic wellness.
+
+{% include toc-flammarion.md %}
+
+## Epidemic
+
+Today in America, 50 million Americans ( with the tacit support of their representatives in Congress ) use both prescription and black-market opioids, sedatives, and stimulants for "non-medical" or recreational usage.
 
 **Rule**. For the love of money and power, your government is out to make you sick and sicker!
 
 ## Death
 
 Around 20,000 persons per year, about the same size crowd for a well publicized, traditional soccer match in the USA will decorate their death certificates with the word "overdose" from the extra use of legal and non-legal prescription and black-market opioids, sedatives, and stimulants.
+
+Another 40,000 will croak simply by using the #BigPharma concoctions per label instructions!
 
 ## Contrast and Compare
 
@@ -55,6 +63,10 @@ Another 100 million Americans report ongoing chronic pain to their physicians.
 
 How much of that is real, and how much is memorex?
 
-***
+{% include sources-and-uses.md %}
 
-**Source**: [The Cannabis Manifesto: A New Paradigm For Wellness by Steve D'Angelo](https://medmj.us/Cannafesto){:target="_blank"}
+### External Sources
+
+- The [Project Source Links](https://mminail.github.io/Canna/Source-Canna-Links.htm){:title="Click to Visit the Source Links page of the Canna Lessons Project at GitHub pages"}{:target="_blank"} page of the Canna Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+
+- The [Cannabis Manifesto: A New Paradigm For Wellness by Steve D'Angelo](https://medmj.us/Cannafesto){:title="Click to Visit the The Cannabis Manifesto: A New Paradigm For Wellness by Steve D'Angelo at Amazon"}{:target="_blank"}. Published by © 2017 [ShopHarborside.com](https://https://www.shopharborside.com/){:title="Click to Visit the Home Page of Harborside Health Center"}{:target="_blank"}.

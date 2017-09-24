@@ -1,11 +1,15 @@
 # Site settings
 #
+# Date of this Update to Config-template file ver 08-13-2017 PM
+#
 # github: [metadata]
 theme: "jekyll-theme-cayman"
 # repository: rwebaz/Canna-Lessons-Project
 title: "Canna Lessons Project"
-tagline: "A Github repo of Canna Lessons"
-description: "A Github repo of Canna Lessons"
+tagline: "A Github repo of Canna Lessons and Articles that emphasize both the GFM and Kramdown engines."
+description: "A Github repo of Canna Lessons and Articles that emphasize both the GFM and Kramdown engines."
+twitter:
+    username: "mminail"
 author:
     name: "Robert Weber, Director"
     email: "mminail@icloud.com"
@@ -13,7 +17,8 @@ author:
     twitter_username: "mminail"
 # The 'baseurl' is the subpath of your website, e.g. /blog
 baseurl: "/Canna-Lessons-Project"
-url: "https://rwebaz.github.io"
+# The 'url' is the parental web address of your designated project, e.g. /https://rwebaz.github.io
+url: "https://mminail.github.io"
 exclude: ['README.md']
 markdown: "kramdown"
 highlighter: "rouge"
@@ -31,7 +36,12 @@ defaults:
       image: "true"
 defaults:
   - scope:
-      path: "assets/ico"
+      path: "assets/img/png"
+    values:
+      image: "true"
+defaults:
+  - scope:
+      path: "assets/img/svg"
     values:
       image: "true"
 defaults:
@@ -57,8 +67,11 @@ defaults:
       type: "collection_CFFP"
     values:
       layout: "page"
-gems:
+gplugins_dir:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
+  

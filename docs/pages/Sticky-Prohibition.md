@@ -1,11 +1,15 @@
 ---
 title: Sticky Prohibition
 layout: default
-navigation_weight: 3
+navigation_weight: 9
 ---
 # Sticky Prohibition
 
 The left pre-frontal cortex is required to make logical trains of thought happen.
+
+{% include toc-flammarion.md %}
+
+## Left Pre-frontal Cortex
 
 Sometimes, all that is required is a functioning left pre-frontal cortex to make a logical connection.
 
@@ -31,6 +35,10 @@ Focus on the targeted end user, the medical patient, and the empathy for that in
 
 Short of an electrical zap to the head, that is our only pathway to turning an illogical voter logical.
 
-***
+{% include sources-and-uses.md %}
 
-**Source**: [The Human Brain: The Collection by New Scientist](https://amzn.to/2tXHkYY){:target="_blank"}
+### External Sources
+
+- The [Project Source Links](https://mminail.github.io/Canna/Source-Canna-Links.htm){:title="Click to Visit the Source Links page of the Canna Lessons Project at GitHub pages"}{:target="_blank"} page of the Canna Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+
+- [The Human Brain: The Collection by New Scientist](https://amzn.to/2tXHkYY){:title="Click to Visit The Human Brain: The Collection by New Scientist at Amazon"}{:target="_blank"}. Published by © 2017 [Newscientist.com](https://www.newscientist.com/){:title="Click to Visit the Home Page of New Scientist dot com"}{:target="_blank"}.
