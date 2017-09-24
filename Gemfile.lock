@@ -203,6 +203,8 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-gist
   jekyll-paginate
+  jekyll-seo-tag
+  jekyll-sitemap
   jekyll-theme-cayman
   tzinfo-data
 
@@ -210,4 +212,4 @@ RUBY VERSION
    ruby 2.4.1p111
 
 BUNDLED WITH
-   1.15.1
+   1.15.4
