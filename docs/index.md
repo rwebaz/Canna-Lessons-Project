@@ -5,8 +5,6 @@ navigation_weight: 1
 ---
 # Canna Lessons Project Home Page
 
-State the issue of the problem in the form of a question.
-
 {{ site.tagline }}
 
 ## Table O Contents
