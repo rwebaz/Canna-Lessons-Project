@@ -5,7 +5,7 @@ navigation_weight: 9
 ---
 # Entourage Effect
 
-Combining synthesized terpenoids and cannabinoids together re-creates Nature's Entourage Effect.
+Combining synthesized terpenoids and cannabinoids together re-creates Mother Nature's *Entourage Effect*.
 
 {% include toc-flammarion.md %}
 
