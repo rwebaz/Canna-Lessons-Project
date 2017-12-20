@@ -39,7 +39,7 @@ Today, we are proud to announce the availability of achenes (seeds) of this fine
 
 Sourced from the Netherlands, in California, come January 1st, #2018 ... homochory will become legal.
 
-You all will then be free to *overgrow* your own symphony of Mother Nature in the privacy of your own garden wherever local laws permit.
+Californians will then be free to *overgrow* your own symphony of Mother Nature in the privacy of your own garden wherever local laws permit.
 
 Please enjoy the *Charas parvati* experience responsibly.
 
