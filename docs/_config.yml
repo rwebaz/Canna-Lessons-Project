@@ -1,24 +1,24 @@
 # Site settings
 #
-# Date of this Update to Config-template file ver 08-13-2017 PM
+# Date of this Update to Config-template file ver 12-18-2017
 #
 # github: [metadata]
 theme: "jekyll-theme-cayman"
-# repository: rwebaz/Canna-Lessons-Project
+# repository: https://www.github.com/rwebaz/Canna-Lessons-Project
 title: "Canna Lessons Project"
-tagline: "A Github repo of Canna Lessons and Articles that emphasize both the GFM and Kramdown engines."
-description: "A Github repo of Canna Lessons and Articles that emphasize both the GFM and Kramdown engines."
+tagline: "A Github repo of Canna Lessons and Articles that emphasize the GFM, Kramdown and Prince XML engines."
+description: "A Github repo of Canna Lessons and Articles that emphasize the GFM, Kramdown and Prince XML engines."
 twitter:
     username: "mminail"
 author:
     name: "Robert Weber, Director"
     email: "mminail@icloud.com"
-    github_username: "mminail"
-    twitter_username: "mminail"
+    github_username: "rwebaz"
+    twitter_username: "rwebaz"
 # The 'baseurl' is the subpath of your website, e.g. /blog
 baseurl: "/Canna-Lessons-Project"
 # The 'url' is the parental web address of your designated project, e.g. /https://rwebaz.github.io
-url: "https://mminail.github.io"
+url: "https://rwebaz.github.io"
 exclude: ['README.md']
 markdown: "kramdown"
 highlighter: "rouge"
@@ -67,7 +67,7 @@ defaults:
       type: "collection_CFFP"
     values:
       layout: "page"
-gplugins_dir:
+plugins_dir:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
