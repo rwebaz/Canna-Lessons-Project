@@ -1,11 +1,11 @@
 ---
 title: Sleep Insomnia
 layout: default
-navigation_weight: 9
+navigation_weight: 8
 ---
 # Sleep Insomnia
 
-{{ site.tagline }}
+{{ site.description }}
 
 {% include toc-flammarion.md %}
 
@@ -31,4 +31,4 @@ Enjoy the successful output!
 
 ### External Sources
 
-- The [Project Source Links](https://mminail.github.io/Canna/Source-Canna-Links.htm){:title="Click to Visit the Source Links page of the Canna Lessons Project at GitHub pages"}{:target="_blank"} page of the Canna Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+- The [Project Source Links](https://mminail.github.io/Canna/Source-Canna-Links.htm){:title="Click to Visit the Source Links page of the Canna Lessons Project at GitHub pages"}{:target="_blank"} page of the Canna Lessons Project. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.

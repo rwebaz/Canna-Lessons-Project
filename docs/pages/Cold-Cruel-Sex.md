@@ -1,11 +1,11 @@
 ---
 title: Cold Cruel Sex
 layout: default
-navigation_weight: 9
+navigation_weight: 2
 ---
 # Cold Cruel Sex
 
-The Cold Cruel Reality of Sex As a Genetic Reproductive Tool
+The Cold Cruel Reality of Sex As a Genetic Reproductive Tool.
 
 {% include toc-flammarion.md %}
 
@@ -65,10 +65,20 @@ If neither of the above scenarios fits your bill, then simply "Go For It!"
 
 It's only natural.
 
+## Last Subtitle
+
+Place the introducing line of text ie.) the 'tagline' here ...
+
+```liquid
+{% raw %}
+Enjoy the successful output!
+{% endraw %}
+```
+
 {% include sources-and-uses.md %}
 
 ### External Sources
 
-- The [Project Source Links](https://mminail.github.io/Canna/Source-Canna-Links.htm){:title="Click to Visit the Source Links page of the Canna Lessons Project at GitHub pages"}{:target="_blank"} page of the Canna Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+- The [Project Source Links](https://mminail.github.io/Canna/Source-Canna-Links.htm){:title="Click to Visit the Source Links page of the Canna Lessons Project at GitHub pages"}{:target="_blank"} page of the Canna Lessons Project. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
 
 - [What If Sex Is Just A Garbage Dump For Genetic Mutations](https://www.wired.com/story/what-if-sex-is-just-a-garbage-dump-for-genetic-mutations/){:title="Click to Visit the article What If Sex Is Just A Garbage Dump For Genetic Mutations by Wired dot come "}{:target="_blank"}. Published by © 2017 [Wired.com](https://mminail.github.io/){:title="Click to Visit the Home Page of Wired dot com"}{:target="_blank"}.
