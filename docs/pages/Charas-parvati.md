@@ -1,19 +1,18 @@
 ---
 title: Charas parvati
 layout: default
-navigation_weight: 2
+excerpt: Charas parvati is a Cannabis sativa landrace varietal indigenous to the Parvati Valley of Northern India ...
+hint: Many years ago as a youngster I was traveling around the globe and one day I found myself in the beautiful Parvati Valley of Northern India.
+repo: Canna-Lessons-Project
+ver_date: 11-26-19
+navigation_weight: 8
+categories: page
 ---
-# Charas parvati
+{% include toc.md %}
 
-Charas parvati is a Cannabis sativa landrace varietal indigenous to the Parvati Valley of Northern India.
+## Dear Friendly One
 
-{% include toc-flammarion.md %}
-
-## Story Text
-
-**Dear friends**:
-
-Many years ago as a youngster I was traveling around the globe and one day I found myself in the beautiful Parvati Valley of Northern India.
+> **Hint**. {{ page.hint }}
 
 No words can describe the intense happiness I felt that moment finding myself locked in a personal center of the universe flying free as a bird gliding through creation and the colorful swirls of my mind.
 
@@ -65,14 +64,14 @@ prince index.htm -o charas-parvati.pdf
 
 ## Last Subtitle
 
-```liquid
-{% raw %}
-Enjoy the successful output!
-{% endraw %}
-```
+More to come ...
 
-{% include sources-and-uses.md %}
+***
 
-### External Sources
+**Note**. The above synopsis was derived from an article written by Blank Author [[1](#BLANKAUTHOR){:.red}].
 
-- The [Project Source Links](https://mminail.github.io/Canna/Source-Canna-Links.htm){:title="Click to Visit the Source Links page of the Canna Lessons Project at GitHub pages"}{:target="_blank"} page of the Canna Lessons Project. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+1. {:#BLANKAUTHOR}[A Narrative of Psychology by Blank Author, Jan #1999](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:title="Click to Review ..."}{:target="_blank"}
+
+***
+
+{% include patreon-link.md %}

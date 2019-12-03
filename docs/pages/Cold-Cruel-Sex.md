@@ -1,19 +1,18 @@
 ---
 title: Cold Cruel Sex
 layout: default
-navigation_weight: 2
+excerpt: The Cold Cruel Reality of Sex As a Genetic Reproductive Tool ...
+hint: Veronica Greenwood has compiled an article for Quanta magazine that begs the question "What Is The True Function of Sexual Reproduction In Species?"
+repo: Canna-Lessons-Project
+ver_date: 11-26-19
+navigation_weight: 8
+categories: page
 ---
-# Cold Cruel Sex
-
-The Cold Cruel Reality of Sex As a Genetic Reproductive Tool.
-
-{% include toc-flammarion.md %}
-
-## Genetic Reproductive Tools
-
-Veronica Greenwood has compiled an article for Quanta magazine that begs the question "What Is The True Function of Sexual Reproduction In Species?"
+{% include toc.md %}
 
 ## Synergistic Epistasis
+
+> **Hint**. {{ page.hint }}
 
 Real genetic disasters can happen to two seemingly very healthy adults when their conception dances the recombination of meiosis.
 
@@ -67,18 +66,14 @@ It's only natural.
 
 ## Last Subtitle
 
-Place the introducing line of text ie.) the 'tagline' here ...
+More to come ...
 
-```liquid
-{% raw %}
-Enjoy the successful output!
-{% endraw %}
-```
+***
 
-{% include sources-and-uses.md %}
+**Note**. The above synopsis was derived from an article written by Veronica Greenwood [[1](#VERONICAGREENWOOD){:.red}].
 
-### External Sources
+1. {:#VERONICAGREENWOOD}[What If Sex Is Just A Garbage Dump For Genetic Mutations](https://www.wired.com/story/what-if-sex-is-just-a-garbage-dump-for-genetic-mutations/){:title="Click to Visit the article What If Sex Is Just A Garbage Dump For Genetic Mutations by Wired dot come "}{:target="_blank"}. Published by © 2017 [Wired.com](https://mminail.github.io/){:title="Click to Visit the Home Page of Wired dot com"}{:target="_blank"}.
 
-- The [Project Source Links](https://mminail.github.io/Canna/Source-Canna-Links.htm){:title="Click to Visit the Source Links page of the Canna Lessons Project at GitHub pages"}{:target="_blank"} page of the Canna Lessons Project. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+***
 
-- [What If Sex Is Just A Garbage Dump For Genetic Mutations](https://www.wired.com/story/what-if-sex-is-just-a-garbage-dump-for-genetic-mutations/){:title="Click to Visit the article What If Sex Is Just A Garbage Dump For Genetic Mutations by Wired dot come "}{:target="_blank"}. Published by © 2017 [Wired.com](https://mminail.github.io/){:title="Click to Visit the Home Page of Wired dot com"}{:target="_blank"}.
+{% include patreon-link.md %}
