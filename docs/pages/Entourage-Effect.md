@@ -1,17 +1,20 @@
 ---
 title: Entourage Effect
 layout: default
-navigation_weight: 3
+excerpt: Combining synthesized terpenoids and cannabinoids together re-creates Mother Nature's Entourage Effect ...
+hint: Terpenes play more than an aromatic roll when combined with phyto-cannabinoids.
+repo: Canna-Lessons-Project
+ver_date: 11-26-19
+navigation_weight: 8
+categories: page
 ---
-# Entourage Effect
-
-Combining synthesized terpenoids and cannabinoids together re-creates Mother Nature's *Entourage Effect*.
-
-{% include toc-flammarion.md %}
+{% include toc.md %}
 
 ## Terpenes
 
-**Terpenes** play more than an aromatic roll when combined with phyto-cannabinoids.
+> **Hint**. {{ page.hint }}
+
+More to come ...
 
 ### Pinene
 
@@ -71,18 +74,14 @@ Commonly referred to as "Couch-lock" dweeb, Cannabis with concentrations of 50% 
 
 ## Last Subtitle
 
-Place the introducing line of text ie.) the 'tagline' here ...
+More to come ...
 
-```liquid
-{% raw %}
-Enjoy the successful output!
-{% endraw %}
-```
+***
 
-{% include sources-and-uses.md %}
+**Note**. The above synopsis was derived from an article written by Amanda Siebert [[1](#AMANDASIEBERT){:.red}].
 
-### External Sources
+1. {:#AMANDASIEBERT}[The Georgia Straight by Amanda Siebert](https://www.420magazine.com/){:title="Click to Visit the The Georgia Straight by Amanda Siebert"}{:target="_blank"}. Published by © 2017 [420magazine.com](https://www.420magazine.com/){:title="Click to Visit 420 Magazine"}{:target="_blank"}.
 
-- The [Project Source Links](https://mminail.github.io/Canna/Source-Canna-Links.htm){:title="Click to Visit the Source Links page of the Canna Lessons Project at GitHub pages"}{:target="_blank"} page of the Canna Lessons Project. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+***
 
-- [The Georgia Straight by Amanda Siebert](https://www.420magazine.com/){:title="Click to Visit the The Georgia Straight by Amanda Siebert"}{:target="_blank"}. Published by © 2017 [420magazine.com](https://www.420magazine.com/){:title="Click to Visit 420 Magazine"}{:target="_blank"}.
+{% include patreon-link.md %}

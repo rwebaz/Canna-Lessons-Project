@@ -1,17 +1,18 @@
 ---
 title: Sticky Prohibition
 layout: default
+excerpt: The left pre-frontal cortex is required to make logical trains of thought happen ...
+hint: Sometimes, all that is required is a functioning left pre-frontal cortex to make a logical connection.
+repo: Canna-Lessons-Project
+ver_date: 11-26-19
 navigation_weight: 8
+categories: page
 ---
-# Sticky Prohibition
-
-The left pre-frontal cortex is required to make logical trains of thought happen.
-
-{% include toc-flammarion.md %}
+{% include toc.md %}
 
 ## Left Pre-frontal Cortex
 
-Sometimes, all that is required is a functioning left pre-frontal cortex to make a logical connection.
+> **Hint**. {{ page.hint }}
 
 Think micro-processor style like when we do our math problems in our head.
 
@@ -37,18 +38,14 @@ Short of an electrical zap to the head, that is our only pathway to turning an i
 
 ## Last Subtitle
 
-Place the introducing line of text ie.) the 'tagline' here ...
+More to come ...
 
-```liquid
-{% raw %}
-Enjoy the successful output!
-{% endraw %}
-```
+***
 
-{% include sources-and-uses.md %}
+**Note**. The above synopsis was derived from an article written by New Scientist [[1](#NEWSCIENTIST){:.red}].
 
-### External Sources
+1. {:#NEWSCIENTIST}[The Human Brain: The Collection by New Scientist](https://amzn.to/2tXHkYY){:title="Click to Visit The Human Brain: The Collection by New Scientist at Amazon"}{:target="_blank"}. Published by © 2017 [Newscientist.com](https://www.newscientist.com/){:title="Click to Visit the Home Page of New Scientist dot com"}{:target="_blank"}.
 
-- The [Project Source Links](https://mminail.github.io/Canna/Source-Canna-Links.htm){:title="Click to Visit the Source Links page of the Canna Lessons Project at GitHub pages"}{:target="_blank"} page of the Canna Lessons Project. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+***
 
-- [The Human Brain: The Collection by New Scientist](https://amzn.to/2tXHkYY){:title="Click to Visit The Human Brain: The Collection by New Scientist at Amazon"}{:target="_blank"}. Published by © 2017 [Newscientist.com](https://www.newscientist.com/){:title="Click to Visit the Home Page of New Scientist dot com"}{:target="_blank"}.
+{% include patreon-link.md %}

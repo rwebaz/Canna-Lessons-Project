@@ -1,19 +1,20 @@
 ---
 title: Canna Manifesto
 layout: default
-navigation_weight: 2
+excerpt: When in the course of human events it becomes necessary for one people to dissolve the political bands which have connected them with another ...
+hint: Patients should imbibe organic based Cannabis products for simple awareness and homeostatic wellness.
+repo: Canna-Lessons-Project
+ver_date: 11-26-19
+navigation_weight: 8
+categories: page
 ---
-# Canna Manifesto
+{% include toc.md %}
 
-When in the course of human events it becomes necessary for one people to dissolve the political bands which have connected them with another ...
+## The Causes That Impel
 
-{% include toc-flammarion.md %}
+> **Hint**. {{ page.hint }}
 
-## New Topic
-
-, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes that impel them to such separation."
-
-Patients should imbibe organic based Cannabis products for simple awareness and homeostatic wellness.
+And, to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes that impel them to such separation."
 
 ## Epidemic
 
@@ -69,10 +70,16 @@ Another 100 million Americans report ongoing chronic pain to their physicians.
 
 How much of that is real, and how much is memorex?
 
-{% include sources-and-uses.md %}
+## Last Subtitle
 
-### External Sources
+More to come ...
 
-- The [Project Source Links](https://mminail.github.io/Canna/Source-Canna-Links.htm){:title="Click to Visit the Source Links page of the Canna Lessons Project at GitHub pages"}{:target="_blank"} page of the Canna Lessons Project. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+***
 
-- The [Cannabis Manifesto: A New Paradigm For Wellness by Steve D'Angelo](https://medmj.us/Cannafesto){:title="Click to Visit the The Cannabis Manifesto: A New Paradigm For Wellness by Steve D'Angelo at Amazon"}{:target="_blank"}. Published by © 2017 [ShopHarborside.com](https://https://www.shopharborside.com/){:title="Click to Visit the Home Page of Harborside Health Center"}{:target="_blank"}.
+**Note**. The above synopsis was derived from an article written by Steve D'Angelo [[1](#STEVEDANGELO){:.red}].
+
+1. {:#STEVEDANGELO}The [Cannabis Manifesto: A New Paradigm For Wellness by Steve D'Angelo](https://medmj.us/Cannafesto){:title="Click to Visit the The Cannabis Manifesto: A New Paradigm For Wellness by Steve D'Angelo at Amazon"}{:target="_blank"}. Published by © 2017 [ShopHarborside.com](https://https://www.shopharborside.com/){:title="Click to Visit the Home Page of Harborside Health Center"}{:target="_blank"}.
+
+***
+
+{% include patreon-link.md %}
